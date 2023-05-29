@@ -3,9 +3,9 @@
 #install
 apt update && apt upgrade
 apt install python3 python3-pip git
-git clone https://github.com/kenDevXD/scupdate.git
-unzip scupdate/xolpanel.zip
-pip3 install -r xolpanel/requirements.txt
+git clone https://github.com/kenDevXD/bottest.git
+unzip bottest/ftvpn.zip
+pip3 install -r ftvpn/requirements.txt
 pip3 install pillow
 
 #isi data
